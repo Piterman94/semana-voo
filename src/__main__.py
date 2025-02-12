@@ -1,7 +1,7 @@
 from generic_crawler import GenericCrawler
 
 
-latam = GenericCrawler("Latam2").start("GRU", "CGB", "2024-10-12", "2024-11-12")
+latam = GenericCrawler("Latam2").start("GRU", "BHZ", "2025-02-20", "2025-03-01")
 # latam = GenericCrawler("Latam").start()
 # azul = GenericCrawler("Azul").start()
 
